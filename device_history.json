@@ -1,0 +1,38 @@
+{
+  "04:68:74:76:4b:9b": {
+    "first_seen": 1793343724.916807,
+    "last_seen": 1793343783.0330355,
+    "last_ip": "192.168.1.2",
+    "vendor": "CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.",
+    "hostname": "DESKTOP-DEMJEIG",
+    "label": "",
+    "times_seen": 6
+  },
+  "aa:1d:2e:28:2a:ae": {
+    "first_seen": 1793343730.059965,
+    "last_seen": 1793343789.4155307,
+    "last_ip": "192.168.1.6",
+    "vendor": "Unknown",
+    "hostname": "-",
+    "label": "",
+    "times_seen": 5
+  },
+  "62:a4:61:85:d2:4f": {
+    "first_seen": 1793343730.1072083,
+    "last_seen": 1793343743.3081334,
+    "last_ip": "192.168.1.5",
+    "vendor": "Unknown",
+    "hostname": "-",
+    "label": "",
+    "times_seen": 2
+  },
+  "78:98:e8:8b:31:1e": {
+    "first_seen": 1793343730.1233065,
+    "last_seen": 1793343758.1125228,
+    "last_ip": "192.168.1.1",
+    "vendor": "D-Link International",
+    "hostname": "-",
+    "label": "",
+    "times_seen": 3
+  }
+}

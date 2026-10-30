@@ -1,0 +1,5 @@
+scapy
+requests
+flask
+qrcode[pil]
+pillow
